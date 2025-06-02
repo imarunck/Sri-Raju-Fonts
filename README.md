@@ -5,6 +5,14 @@ This is an unofficial open-source mirror of the **Sri Raju Font Family**, a Kann
 > 🎁 Originally shared by the publisher on [sugataraju.blogspot.com](https://sugataraju.blogspot.com/2019/01/free-download-sriraju-type-family-with.html)
 
 ---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="specimen/preview.png" alt="Sriraju Font Preview" width="600">
+</p>
+
+---
 ## 🔤 Supported Scripts
 
 - **Kannada** (primary)
@@ -18,13 +26,6 @@ The fonts were originally shared publicly for free use. While no formal license 
 
 > ⚠️ If you are the creator or publisher and wish to provide a specific license, please open an issue or contact us. Suggested license format: [SIL Open Font License (OFL)](https://scripts.sil.org/OFL)
 
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="specimen/preview.png" alt="Sriraju Font Preview" width="600">
-</p>
 ---
 
 ## ✍️ Credits
