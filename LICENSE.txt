@@ -1,0 +1,11 @@
+Sriraju Fonts
+Designed by Nagalingappa Badiger
+Published by Sugata Srinivasaraju
+
+Originally distributed via sugataraju.blogspot.com and Google Drive as a free font family.
+
+This repository is an unofficial mirror. If you're the designer or publisher and would like to update the license, please contact the repository maintainer.
+
+Current usage: Assumed to be free for personal and commercial use.
+
+Suggested license: SIL Open Font License (OFL)
