@@ -21,7 +21,7 @@ The fonts were originally shared publicly for free use. While no formal license 
 ---
 ## ✍️ Credits
 
-- **Typeface Designer**: [Nagalingappa Badiger](https://twitter.com/sugataraju/status/1711277643147149534)
+- **Typeface Designer**: [Nagalingappa Badiger]
 - **Publisher**: [Sugata Srinivasaraju](https://sugataraju.blogspot.com/)
 - **Original Blog**: [Free Download: Sriraju Type Family](https://sugataraju.blogspot.com/2019/01/free-download-sriraju-type-family-with.html)
 
